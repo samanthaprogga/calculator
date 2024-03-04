@@ -24,7 +24,7 @@ This is a straightforward JavaScript, HTML, and CSS calculator application for t
 
 <h2>DEMO</h2>
 
-You can try out the calculator [here](https://your-username.github.io/calculator/).
+You can try out the calculator [here](file:///C:/Users/Samantha/OneDrive/Desktop/intro%20of%20webdeloper/Javascript%20basic/calc/index.htm).
 
 
 
