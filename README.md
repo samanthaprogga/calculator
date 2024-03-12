@@ -26,6 +26,8 @@ This is a straightforward JavaScript, HTML, and CSS calculator application for t
 
 You can try out the calculator [here](https://samanthaprogga.github.io/calculator/).
 
+You can try out the [here](https://github.com/samanthaprogga/my-new-website.git)
+
 
 <h2>Prerequisites</h2>
 
